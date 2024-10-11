@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Quynh Anh</h1>
 <h3 align="center">A Computer Science student focusing on full-stack web development</h3>
+- 🗣️ My first name is pronounced like Quinn Ann.
 
 - 🔭 I’m currently working on [Plant Pal API - A backend service that powers a house plants management app](https://github.com/annabel-anh/plant-pal-api)
 
