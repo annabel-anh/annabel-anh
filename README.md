@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Quynh Anh</h1>
 <h3 align="center">A Computer Science student focusing on full-stack web development</h3>
-- 🗣️ My first name is pronounced like Quinn Ann.
-
-- 🔭 I’m currently working on [Plant Pal API - A backend service that powers a house plants management app](https://github.com/annabel-anh/plant-pal-api)
-
-- 🌱 I’m currently learning **TypeScript, Vue.js, Prisma**
-
-- ⚡ Fun fact **I helped my family win 1st prize at a family gameshow when I was 9.**
-
+<ul>
+  <li>🗣️ My first name is pronounced like <strong>Quinn Ann</strong></li>
+  <li>🔭 I’m currently working on <a href="https://github.com/annabel-anh/plant-pal-api">Plant Pal API - A backend service that powers a house plant management app</a></li>
+  <li>🌱 I’m currently learning <strong>TypeScript, Vue.js, Prisma</strong></li>
+  <li>⚡ Fun fact: <strong>I helped my family win 1st prize at a family gameshow when I was 9</strong></li>
+</ul>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/quynhanhninh151" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="quynhanhninh151" height="30" width="40" /></a>
